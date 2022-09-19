@@ -1,0 +1,10 @@
+.rectangle {
+    background: pink;
+}
+
+.content {
+    grid-template-columns: auto 15px auto 1fr;
+    grid-template-areas:
+        "squares squares squares empty-space rectangle"
+        "equals empty-space2 circle empty-space3 rectangle";
+}

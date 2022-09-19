@@ -1,0 +1,21 @@
+.rectangle {
+    background: blue;
+}
+
+.content {
+    grid-template-columns: auto 15px auto;
+    grid-template-rows: auto auto 30px auto;
+    grid-template-areas:
+        "squares squares squares"
+        "equals empty-space circle"
+        "empty-space2 empty-space2 empty-space2"
+        "rectangle rectangle rectangle";
+}
+
+.rectangle-section {
+    justify-self: center;
+}
+
+.squares-section {
+    justify-self: center;
+}
