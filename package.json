@@ -1,0 +1,19 @@
+{
+  "name": "optimo-recruitment-task",
+  "version": "0.1.0-beta.0",
+  "description": ":)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Telawejczyk/optimo-recruitment-task.git"
+  },
+  "author": "Telawejczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Telawejczyk/optimo-recruitment-task/issues"
+  },
+  "homepage": "https://github.com/Telawejczyk/optimo-recruitment-task#readme"
+}
