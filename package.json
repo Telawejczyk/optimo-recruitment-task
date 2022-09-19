@@ -1,6 +1,6 @@
 {
   "name": "optimo-recruitment-task",
-  "version": "0.1.0-beta.0",
+  "version": "0.1.0",
   "description": ":)",
   "main": "index.js",
   "scripts": {
